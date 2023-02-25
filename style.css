@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  overflow: hidden;
+}
+
+canvas {
+  image-rendering: crisp-edges;
+  border: 4px solid white;
+}
