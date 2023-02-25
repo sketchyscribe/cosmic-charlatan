@@ -10,30 +10,6 @@ import T_Wall from './Actors/T_Wall';
 import T_Floor from './Actors/T_Floor';
 import M_Goblin from './Actors/M_Goblin';
 
-//TODO:
-// * Implement FOV Algorithm
-// * Map Generation
-//      * Ship Generation
-//      * Dungeon World Generation > 3 levels
-// * Turn Scheduler
-//      * Action Points - Each action takes 1 point, limited AP/turn
-//      * OR
-//      * Turn phases - Movement > Attack > Bonus 
-// * Inventory System
-//      * 10 Slots
-//      * Pickup & drop items from specific slots
-//      * Equip item from slot || Use item from inventory
-// * Basic Items
-//      * Sword
-//      * Torch
-//      * Food
-//      * Shield
-//      * 1 artifact
-// * Implement ship mechanics
-//      * On ship storage for items, simply drop and pickup from ground
-//      * Acces computer terminal for marketplace to buy and sell items
-//      * Access cockpit to select next bounty location
-
 export const Game = {
     Term: new Terminal({
         width: 50,
