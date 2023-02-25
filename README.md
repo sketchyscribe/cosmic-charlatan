@@ -1,4 +1,7 @@
 # Cosmic Charlatan
+
+> The current most up-to date build can be played here: https://sketchyscribe.github.io/cosmic-charlatan/
+
 Cosmic Charlatan is a browser based Roguelike written entirely using vanilla HTML and Javascript. It started as a project to refresh my Javascript knowledge, and after plenty of fiddling and deliberation, I've decided I want to take it through to completion.
 
 The game will be focused around collecting resources and artifacts from randomly generated planets, and bringing them back to your space barge inorder to sell them in the Galatic Web for a profit.
